@@ -45,4 +45,6 @@ Built-in Facebook login / registration, only users (type = 0) can login / regist
 
 Users can post job advertisements and advertise the need for personal transport (hitchhiking) from one place to another.
 The company can advertise the need for new workers.
-Superadmin može nadgledati sve korisnike, brisati objave, blokirati koisnike...itd
+Super Admin can monitor all users, delete posts, block users, etc ...
+
+
